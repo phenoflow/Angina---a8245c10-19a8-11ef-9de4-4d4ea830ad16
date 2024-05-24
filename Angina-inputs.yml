@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/angina-stenocardia---primary.py
+inputModule3:
+  class: File
+  path: python/angina-effort---primary.py
+inputModule4:
+  class: File
+  path: python/angina-decubitus---primary.py
+inputModule5:
+  class: File
+  path: python/angina-insufficiency---primary.py
+inputModule6:
+  class: File
+  path: python/angina---primary.py
+inputModule7:
+  class: File
+  path: python/angina-ischaemia---primary.py
+inputModule8:
+  class: File
+  path: python/unstable-angina---primary.py
+inputModule9:
+  class: File
+  path: python/angina-pectoris---primary.py
+inputModule10:
+  class: File
+  path: python/chronic-angina---primary.py
+inputModule11:
+  class: File
+  path: python/angina-preinfarction---primary.py
+inputModule12:
+  class: File
+  path: python/angina-anginosus---primary.py
+inputModule13:
+  class: File
+  path: python/myocardial-angina---primary.py
+inputModule14:
+  class: File
+  path: python/angina-crescendo---primary.py
+inputModule15:
+  class: File
+  path: python/acute-angina---primary.py
+inputModule16:
+  class: File
+  path: python/angina-spasm---primary.py
+inputModule17:
+  class: File
+  path: python/angina-variant---primary.py
+inputModule18:
+  class: File
+  path: python/prinzmetal-angina---primary.py
+inputModule19:
+  class: File
+  path: python/coronary-angina---primary.py
+inputModule20:
+  class: File
+  path: python/anginal---primary.py
+inputModule21:
+  class: File
+  path: python/angina-hypertension---primary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
